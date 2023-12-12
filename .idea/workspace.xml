@@ -5,28 +5,51 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4dabb5d6-2f22-4059-afff-425f723a6473" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/controllers/DiaryController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/DiaryAppException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/DiaryLockedException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/InvalidDetailsExceptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/UserExistException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/DiaryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/DiaryServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/EntryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/EntryServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/services/DiaryServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/delightedDiary/controllers/DiaryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/delightedDiary/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/delightedDiary/controllers/DiaryController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/delightedDiary/data/models/Diary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/delightedDiary/data/models/Entry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/delightedDiary/data/repositories/DiaryRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/delightedDiary/data/repositories/DiaryRepositoryImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/delightedDiary/data/repositories/EntryRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/delightedDiary/data/repositories/EntryRepositoryImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/delightedDiary/exceptions/DiaryAppException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/delightedDiary/exceptions/DiaryLockedException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/delightedDiary/exceptions/InvalidDetailsExceptions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/delightedDiary/exceptions/UserExistException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/delightedDiary/services/DiaryService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/delightedDiary/services/DiaryServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/delightedDiary/services/EntryService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/delightedDiary/services/EntryServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/delightedDiary/data/repositories/DiaryRepositoryImplTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/delightedDiary/data/repositories/EntryRepositoryImplTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/delightedDiary/services/DiaryServiceImplTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gossipme.iml" beforeDir="false" afterPath="$PROJECT_DIR$/gossipme.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/models/Diary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/models/Diary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/models/Entry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/models/Entry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/repositories/DiaryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/repositories/DiaryRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/repositories/DiaryRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/repositories/DiaryRepositoryImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/repositories/EntryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/repositories/EntryRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/repositories/EntryRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/repositories/EntryRepositoryImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/data/repositories/DiaryRepositoryImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/data/repositories/DiaryRepositoryImplTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/data/repositories/EntryRepositoryImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/data/repositories/EntryRepositoryImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/delightedDiary/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/DiaryController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/models/Diary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/delightedDiary/data/models/Diary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/models/Entry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/delightedDiary/data/models/Entry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/repositories/DiaryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/delightedDiary/data/repositories/DiaryRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/repositories/DiaryRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/delightedDiary/data/repositories/DiaryRepositoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/repositories/EntryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/delightedDiary/data/repositories/EntryRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/repositories/EntryRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/delightedDiary/data/repositories/EntryRepositoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/DiaryAppException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/delightedDiary/exceptions/DiaryAppException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/DiaryLockedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/delightedDiary/exceptions/DiaryLockedException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/InvalidDetailsExceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/delightedDiary/exceptions/InvalidDetailsExceptions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/UserExistException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/delightedDiary/exceptions/UserExistException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/DiaryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/delightedDiary/services/DiaryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/DiaryServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/delightedDiary/services/DiaryServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/EntryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/delightedDiary/services/EntryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/EntryServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/delightedDiary/services/EntryServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/data/repositories/DiaryRepositoryImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/delightedDiary/data/repositories/DiaryRepositoryImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/data/repositories/EntryRepositoryImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/delightedDiary/data/repositories/EntryRepositoryImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/services/DiaryServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/delightedDiary/services/DiaryServiceImplTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +90,7 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Dell/IdeaProjects/gossipme/src/com/delightedDiary/gossipme",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -75,14 +99,19 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dell\IdeaProjects\gossipme\src\com\delightedDiary\gossipme" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.delightedDiary" />
       <recent name="data" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
@@ -90,10 +119,25 @@
       <recent name="data.repositories" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Spring Boot.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="MAIN_CLASS_NAME" value="com.delightedDiary.Main" />
       <module name="gossipme" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiaryRepositoryImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gossipme" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.delightedDiary.data.repositories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.delightedDiary.data.repositories" />
+      <option name="MAIN_CLASS_NAME" value="com.delightedDiary.data.repositories.DiaryRepositoryImplTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -102,72 +146,52 @@
       <module name="gossipme" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="services.*" />
+          <option name="PATTERN" value="com.delightedDiary.services.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="services" />
-      <option name="MAIN_CLASS_NAME" value="services.DiaryServiceImplTest" />
+      <option name="PACKAGE_NAME" value="com.delightedDiary.services" />
+      <option name="MAIN_CLASS_NAME" value="com.delightedDiary.services.DiaryServiceImplTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DiaryServiceImplTest.testThatRegisterANewUser_NewUserTriedToLogInWithWrongPassword" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="EntryRepositoryImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="gossipme" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="services.*" />
+          <option name="PATTERN" value="com.delightedDiary.data.repositories.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="services" />
-      <option name="MAIN_CLASS_NAME" value="services.DiaryServiceImplTest" />
-      <option name="METHOD_NAME" value="testThatRegisterANewUser_NewUserTriedToLogInWithWrongPassword" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="com.delightedDiary.data.repositories" />
+      <option name="MAIN_CLASS_NAME" value="com.delightedDiary.data.repositories.EntryRepositoryImplTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DiaryServiceImplTest.testThatRegisterANewUser_NewUserTriedToLogInWithWrongUsername" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="gossipme" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.delightedDiary.Main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="services.*" />
+          <option name="PATTERN" value="com.delightedDiary.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="services" />
-      <option name="MAIN_CLASS_NAME" value="services.DiaryServiceImplTest" />
-      <option name="METHOD_NAME" value="testThatRegisterANewUser_NewUserTriedToLogInWithWrongUsername" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DiaryServiceImplTest.whenUserRegister_enterTheRightDetailToLogin_andCreateThreeEntryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="gossipme" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="services.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="services" />
-      <option name="MAIN_CLASS_NAME" value="services.DiaryServiceImplTest" />
-      <option name="METHOD_NAME" value="whenUserRegister_enterTheRightDetailToLogin_andCreateThreeEntryTest" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.DiaryServiceImplTest.testThatRegisterANewUser_NewUserTriedToLogInWithWrongPassword" />
-        <item itemvalue="JUnit.DiaryServiceImplTest.testThatRegisterANewUser_NewUserTriedToLogInWithWrongUsername" />
         <item itemvalue="JUnit.DiaryServiceImplTest" />
-        <item itemvalue="JUnit.DiaryServiceImplTest.whenUserRegister_enterTheRightDetailToLogin_andCreateThreeEntryTest" />
+        <item itemvalue="JUnit.EntryRepositoryImplTest" />
+        <item itemvalue="JUnit.DiaryRepositoryImplTest" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +203,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702269751834</updated>
-      <workItem from="1702269753246" duration="35750000" />
+      <workItem from="1702269753246" duration="43593000" />
     </task>
     <servers />
   </component>
@@ -194,17 +218,12 @@
           <option name="timeStamp" value="6" />
         </breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test/services/DiaryServiceImplTest.java</url>
+          <url>file://$PROJECT_DIR$/test/com/delightedDiary/services/DiaryServiceImplTest.java</url>
           <line>20</line>
           <properties>
             <option name="lambda-ordinal" value="-1" />
           </properties>
           <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>67</line>
-          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
